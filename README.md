@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1st Year<br>📚 I'm currently learning VSCode and other more<br>🎯 Goals: ...<br>🎲 Fun fact: I am an 2D Animator</p>
+<p align="left">✨ Creating bugs since 1st Year<br>📚 I'm currently learning VSCode and other more<br>🎯 Goals: To adapt to any phenomenon <br>🎲 Fun fact: I am an 2D Animator</p>
 
 ###
 
